@@ -1,0 +1,23 @@
+
+[
+  {"id":"farming","name":"Фермерство","icon":"🌱"},
+  {"id":"animals","name":"Животные","icon":"🐔"},
+  {"id":"fishing","name":"Рыбалка","icon":"🎣"},
+  {"id":"foraging","name":"Собирательство","icon":"🍄"},
+  {"id":"mines","name":"Шахты","icon":"⛏️"},
+  {"id":"monsters","name":"Монстры","icon":"👾"},
+  {"id":"items","name":"Предметы","icon":"🎒"},
+  {"id":"gear","name":"Оружие и экипировка","icon":"⚔️"},
+  {"id":"crafting","name":"Крафт","icon":"🔨"},
+  {"id":"cooking","name":"Кулинария","icon":"🍳"},
+  {"id":"characters","name":"Персонажи","icon":"🧑‍🌾"},
+  {"id":"relationships","name":"Отношения","icon":"💛"},
+  {"id":"locations","name":"Локации","icon":"🗺️"},
+  {"id":"ginger-island","name":"Остров Джинджер","icon":"🏝️"},
+  {"id":"secrets","name":"Секреты","icon":"🔑"},
+  {"id":"quests","name":"Квесты","icon":"📜"},
+  {"id":"collections","name":"Коллекции","icon":"🏺"},
+  {"id":"achievements","name":"Достижения","icon":"🏆"},
+  {"id":"festivals","name":"Фестивали и события","icon":"🎪"},
+  {"id":"mechanics","name":"Игровые механики и вероятности","icon":"🎲"}
+]
